@@ -49,5 +49,4 @@ int main() {
     printf("Number of equal divisors: %d\n", count);
     
     return 0;
-
 }
